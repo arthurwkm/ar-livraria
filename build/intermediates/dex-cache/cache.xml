@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/classes-795a0dfc7218bbb2c09d2eb75bb7d4858db54d33.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/classes-f7b36abfca9b0e6654c933852907ed56cddb5c49.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-2e8fc81d18a7842eed98990192a9b998d474bf55.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/ARSimpleProj (Arthur atualizado)/aRBaseLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d1cdd34bb7844f6f42c190b4e4a5a1627833488">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/classes-c22fd2f786f162c471cebc266cd73fbf4f1e3689.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-66141dfb8b14c1ba3ebfd2543e2e0b307566e85e.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/classes-e2b78bd70671d2c6d8c09025781564433c73293b.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/classes-ba6405a0b7b9d082582129d5f90009f60632b768.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/classes-a4fdc0912b29c2be18e93960b38ec49063ed08d0.jar" />
+    </item>
+    <item
+        jar="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/carloscesar/eturismo/ARSimpleProj (Arthur atualizado)/aRSimple/build/intermediates/pre-dexed/debug/classes-93f67e905de2d41ecdef76491a9b3a3f65a0da7e.jar" />
+    </item>
+
+</items>
